@@ -1,4 +1,4 @@
-# Consult interface information
+# Consult information
 {
   getPeople {
     _id
